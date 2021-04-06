@@ -1,0 +1,46 @@
+I"�<p>Anchor Point <a href="#program">program</a></p>
+<h1 id="aim-and-scope">Aim and Scope</h1>
+
+<p>With each passing day, we are witnessing an increased integration of intelligent machines in our daily lives such as self-driving cars, Intelligent Assistive Systems (IAS), and companion robots. The omnipresence of such intelligent machines poses certain ethical and legal challenges. To ensure the beneficence of autonomous agents towards humans (and other machines), we need to introduce ethical and legal mechanism(s) to govern and align action executed by AI-based algorithms according to our societal ethical and moral norms. The challenge of encoding our ethical preferences into machines is two-fold: Technical and Philosophical. Regarding the former, various frameworks have been already proposed to realise operationalisable ethics. These frameworks can be roughly divided into three categories: 1) Probabilistic approaches 2) Learning-Based approaches 3) Logic-Based approaches. Regarding the latter, there are also ethical challenges to consider. Some dispute that machines cannot act ethically at all, since this presupposes the possibility of reflection and justification. Regardless of this objection, there is by no means agreement among ethicists about which ethical principles should be implemented and in which hierarchical relationship they should stand to each other. In light of the fact that the systems that might even get into the situation of having to make an ethically relevant decision on their own have yet to be developed, the debate on implementing ethical principles in AI systems is still in its infancy. A first step towards solving the problems mentioned is therefore to bring the relevant experts into discussion with each other.</p>
+
+<p>The aim of the workshop is therefore primarily to initiate an interdisciplinary dialogue between the individual disciplines, such that the state of research of the respective discipline can be understood by the participants and conceptual ambiguities, which exist especially in interdisciplinary projects, can be cleared up. As organizers, we hope that this will lead to this workshop will set a platform for interdisciplinary collaboration and will pave the way to find a common ground among these disciplines such that a roadmap towards ethics aware Artificial Intelligence can be proposed.</p>
+
+<h1 id="program">Program</h1>
+<p><a name="program"></a></p>
+
+<h2 id="invited-talk-1">Invited Talk 1</h2>
+<h2 id="paper-session-1">Paper Session 1</h2>
+<h2 id="paper-session-2">Paper Session 2</h2>
+<h2 id="invited-talk-2">Invited Talk 2</h2>
+
+<h1 id="call-for-papers">Call for papers</h1>
+<p>T.B.A</p>
+
+<h1 id="organizers">Organizers</h1>
+
+<ul>
+  <li>Prof. Dr. Andreas Hein, <em>University of Oldenburg, Germany</em></li>
+  <li>Prof. Dr. Mark Schweda <em>University of Oldenburg, Germany</em></li>
+  <li>Prof. Dr. Silke Schicktanz, <em>University of Goettingen, Germany</em></li>
+  <li>Prof. Dr. Stefan Teipel, <em>University of Rostock, Germany</em></li>
+  <li>Prof. Dr. Thomas Kirste, <em>University of Rostock, Germany</em></li>
+</ul>
+
+<h1 id="program-committee">Program Committee</h1>
+<ul>
+  <li>Christoph Benzmüller, <em>Freie Universität Berlin, Germany</em></li>
+  <li>Sebastian Bader, <em>University of Rostock, Germany</em></li>
+  <li>Kristina Yordanova, <em>University of Rostock, Germany</em></li>
+  <li>Johann-Christian Põder, <em>University of Rostock, Germany</em></li>
+</ul>
+
+<h1 id="important-dates">Important Dates</h1>
+
+<p><strong>Deadline for Submission</strong>	   	 July 25, 2021<br />
+<strong>Notification of Authors</strong>	   	 August 20, 2021
+<strong>Camera-ready Paper</strong>	   	 September 02, 2021
+<strong>Workshop</strong>	   	 September 27 – October 01, 2021</p>
+
+<h1 id="contact">Contact</h1>
+
+:ET
