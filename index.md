@@ -11,41 +11,72 @@ The aim of the workshop is therefore primarily to initiate an interdisciplinary 
 
 
 # Program
-
-## Invited Talk 1
-## Paper Session 1
-## Paper Session 2
-## Invited Talk 2
+The workshop is planned as a half-day event, a detailed schedule will be provided soon.
 
 # Call for papers
-T.B.A
+
+With the emergence and proliferation of smart machines in professional and everyday contexts, ethical and legal issues are particularly salient. Integrating ethical principles is challenging from both a technical and philosophical perspective. The goal of the workshop is therefore to bring together contributions from computer science, engineering, philosophy, and other relevant fields that tackle these challenges and address the following topics (not limmited to):
+
+- Ethics-aware and responsible AI development
+- Ethical Decision Framework(s) in different application domains
+	- Intelligent Assistive Systems
+	- Self-Driving Cars
+	- Healthcare
+	- Robotics
+	- Other decision-making frameworks
+- Technical Approaches towards operationalising ethics in AI
+	- Probablisitc Approaches
+	- Logic Based Approaches
+	- Learning Based Approaches
+	- Other approaches
+- Validation approaches for an ethical decision framework
+
+The above list is not an exhaustive list but only an indicative one. We solicit an extended abstract of 700-1000 words in which you present your project, your research question, your methods and, if applicable, your initial results. All abstracts must be written in English and be submitted via the [Easychair submission website](https://easychair.org/conferences/?conf=ki2021wt) until 25th July 2021. Since the goal of the workshop is specially to guide an exchange between disciplines, we highly encourage interdisciplinary teams to submit.
+
+ 
 
 # Organizers
 
 - Prof. Dr. Andreas Hein, *University of Oldenburg, Germany*
-- Prof. Dr. Mark Schweda *University of Oldenburg, Germany*
+- Prof. Dr. Mark Schweda, *University of Oldenburg, Germany*
 - Prof. Dr. Silke Schicktanz, *University of Goettingen, Germany*
 - Prof. Dr. Stefan Teipel, *University of Rostock, Germany*
 - Prof. Dr. Thomas Kirste, *University of Rostock, Germany*
 
 
 # Program Committee
-- Christoph Benzmüller, *Freie Universität Berlin, Germany*
-- Sebastian Bader, *University of Rostock, Germany*
-- Kristina Yordanova, *University of Rostock, Germany*
-- Johann-Christian Põder, *University of Rostock, Germany*
+- Prof. Dr. Christoph Benzmüller, *Freie Universität Berlin, Germany*
+- Prof. Dr. Kristof Van Laerhoven, *Universty of Siegen, Germany*
+- Prof. Dr. Jesse Hoey, *University of Waterloo, Canada*
+- Prof. Dr. Britta Böckmann, *Fachhochschule Dortmund, Germany*
+- JProf. Dr. Johann-Christian Põder, *University of Rostock, Germany*
+- Dr. Sebastian Bader, *University of Rostock, Germany*
+- Dr. Kristina Yordanova, *University of Rostock, Germany*
+- Dr. Nils Strodthoff, *Fraunhofer Heinrich Hertz Institute, Germany*
+- Dr. Matthias Braun, *University of Erlangen, Germany*
+- Eike Buhr, *University of Oldenburg, Germany*
+- Johannes J. Welsch, *University of Göttingen, Germany*
+- Carolin Lübbe, *University of Oldenburg, Germany*
+- M. Salman Shaukat *University of Rostock, Germany*
 
-# Important Dates
+<h1>Important Dates</h1>
 
-**Deadline for Submission**	&nbsp; &nbsp;	 July 25, 2021  
-**Notification of Authors**	        &nbsp; &nbsp;	 August 20, 2021  
-**Camera-ready Paper**	        &nbsp;&nbsp; &nbsp;	 September 02, 2021  
-**Workshop**	                       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;	 September 27 -- October 01, 2021
-
-
-# Contact
-
-For further information about the workshop please contact
-- M. Salman Shaukat (muhammad.shaukat@uni-rostock.de)
-- Eike Bühr
-
+<table style="width:100%">
+  
+  <tr>
+    <td>Deadline for Submission</td>
+    <td>July 25, 2021</td>
+  </tr>
+  <tr>
+    <td>Notification of Authors</td>
+    <td>August 20, 2021</td>
+  </tr>
+  <tr>
+    <td>Camera-ready Paper</td>
+    <td>September 02, 2021</td>
+  </tr>
+  <tr>
+    <td>Workshop</td>
+    <td>September 27 - October 01, 2021</td>
+  </tr>
+</table>
