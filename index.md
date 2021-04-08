@@ -11,6 +11,7 @@ The aim of the workshop is therefore primarily to initiate an interdisciplinary 
 
 
 # Program
+<a name="Program"></a>
 The workshop is planned as a half-day event, a detailed schedule will be provided soon.
 
 # Call for papers
@@ -35,7 +36,8 @@ The above list is not an exhaustive list but only an indicative one. We solicit 
 
  
 
-# Organizers
+# Workshop chairs and organisers
+## Chairs
 
 - Prof. Dr. Andreas Hein, *University of Oldenburg, Germany*
 - Prof. Dr. Mark Schweda, *University of Oldenburg, Germany*
@@ -43,6 +45,11 @@ The above list is not an exhaustive list but only an indicative one. We solicit 
 - Prof. Dr. Stefan Teipel, *University of Rostock, Germany*
 - Prof. Dr. Thomas Kirste, *University of Rostock, Germany*
 
+## Organisers
+- Eike Buhr, *University of Oldenburg, Germany*  ; [eike.buhr@uni-oldenburg.de](mailto:eike.buhr@uni-oldenburg.de)
+- Johannes J. Welsch, *University of Göttingen, Germany*  ; [johannes.welsch@med.uni-goettingen.de](mailto:johannes.welsch@med.uni-goettingen.de)
+- Carolin Lübbe, *University of Oldenburg, Germany* ; [carolin.luebbe@uni-oldenburg.de](mailto:carolin.luebbe@uni-oldenburg.de)
+- M. Salman Shaukat *University of Rostock, Germany* ; [muhammad.shaukat@uni-rostock.de](mailto:muhammad.shaukat@uni-rostock.de)
 
 # Program Committee
 - Prof. Dr. Christoph Benzmüller, *Freie Universität Berlin, Germany*
@@ -54,10 +61,6 @@ The above list is not an exhaustive list but only an indicative one. We solicit 
 - Dr. Kristina Yordanova, *University of Rostock, Germany*
 - Dr. Nils Strodthoff, *Fraunhofer Heinrich Hertz Institute, Germany*
 - Dr. Matthias Braun, *University of Erlangen, Germany*
-- Eike Buhr, *University of Oldenburg, Germany*
-- Johannes J. Welsch, *University of Göttingen, Germany*
-- Carolin Lübbe, *University of Oldenburg, Germany*
-- M. Salman Shaukat *University of Rostock, Germany*
 
 <h1>Important Dates</h1>
 
@@ -80,3 +83,17 @@ The above list is not an exhaustive list but only an indicative one. We solicit 
     <td>September 27 - October 01, 2021</td>
   </tr>
 </table>
+
+# Acknowledgement
+This workshop is organised under the project *EIDEC* (Ethical and Social Aspects of Co-Intelligent Monitoring and Assistance Systems in Dementia Care) , funded by the German Federal Ministry of Education and Research (*BMBF*) with funding number 01GP1901A. For Further information on the project please visit [here](http://demenz-assistenz.de/HOME/).
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<img style= "float: right" src="bmbf_logo.jpeg" alt="BMBF" width="300"/>
+
+
+
+

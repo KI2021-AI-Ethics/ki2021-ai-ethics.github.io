@@ -1,109 +1,82 @@
-# The Cayman theme
+# Artificial Intelligence and Ethics Workshop @ KI2021
 
-[![Build Status](https://travis-ci.org/pages-themes/cayman.svg?branch=master)](https://travis-ci.org/pages-themes/cayman) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-cayman.svg)](https://badge.fury.io/rb/jekyll-theme-cayman)
+# Aim and Scope
 
-*Cayman is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/cayman), or even [use it today](#usage).*
+With each passing day, we are witnessing an increased integration of intelligent machines in our daily lives such as self-driving cars, Intelligent Assistive Systems (IAS), and companion robots. The omnipresence of such intelligent machines poses certain ethical and legal challenges. To ensure the beneficence of autonomous agents towards humans (and other machines), we need to introduce ethical and legal mechanism(s) to govern and align action executed by AI-based algorithms according to our societal ethical and moral norms. The challenge of encoding our ethical preferences into machines is two-fold: Technical and Philosophical. Regarding the former, various frameworks have been already proposed to realise operationalisable ethics. These frameworks can be roughly divided into three categories: 1) Probabilistic approaches 2) Learning-Based approaches 3) Logic-Based approaches. Regarding the latter, there are also ethical challenges to consider. Some dispute that machines cannot act ethically at all, since this presupposes the possibility of reflection and justification. Regardless of this objection, there is by no means agreement among ethicists about which ethical principles should be implemented and in which hierarchical relationship they should stand to each other. In light of the fact that the systems that might even get into the situation of having to make an ethically relevant decision on their own have yet to be developed, the debate on implementing ethical principles in AI systems is still in its infancy. A first step towards solving the problems mentioned is therefore to bring the relevant experts into discussion with each other.
 
-![Thumbnail of Cayman](thumbnail.png)
+The aim of the workshop is therefore primarily to initiate an interdisciplinary dialogue between the individual disciplines, such that the state of research of the respective discipline can be understood by the participants and conceptual ambiguities, which exist especially in interdisciplinary projects, can be cleared up. As organizers, we hope that this will lead to this workshop will set a platform for interdisciplinary collaboration and will pave the way to find a common ground among these disciplines such that a roadmap towards ethics aware Artificial Intelligence can be proposed.
 
-## Usage
 
-To use the Cayman theme:
+# Program
 
-1. Add the following to your site's `_config.yml`:
+The workshop is planned as a half-day event, a detailed schedule will be provided soon.
 
-    ```yml
-    theme: jekyll-theme-cayman
-    ```
+# Call for papers
 
-2. Optionally, if you'd like to preview your site on your computer, add the following to your site's `Gemfile`:
+With the emergence and proliferation of smart machines in professional and everyday contexts, ethical and legal issues are particularly salient. Integrating ethical principles is challenging from both a technical and philosophical perspective. The goal of the workshop is therefore to bring together contributions from computer science, engineering, philosophy, and other relevant fields that tackle these challenges and address the following topics (not limmited to):
 
-    ```ruby
-    gem "github-pages", group: :jekyll_plugins
-    ```
+- Ethics-aware and responsible AI development
+- Ethical Decision Framework(s) in different application domains
+  - Intelligent Assistive Systems
+  - Self-Driving Cars
+  - Healthcare
+  - Robotics
+  - Other decision-making frameworks
+- Technical Approaches towards operationalising ethics in AI
+  - Probablisitc Approaches
+  - Logic Based Approaches
+  - Learning Based Approaches
+  - Other approaches
+- Validation approaches for an ethical decision framework
 
-## Customizing
+The above list is not an exhaustive list but only an indicative one. We solicit an extended abstract of 700-1000 words in which you present your project, your research question, your methods and, if applicable, your initial results. All abstracts must be written in English and be submitted via the [Easychair submission website](https://easychair.org/conferences/?conf=ki2021wt) until 25th July 2021. Since the goal of the workshop is specially to guide an exchange between disciplines, we highly encourage interdisciplinary teams to submit.
 
-### Configuration variables
+ 
 
-Cayman will respect the following variables, if set in your site's `_config.yml`:
+# Organizers
 
-```yml
-title: [The title of your site]
-description: [A short description of your site's purpose]
-```
+- Prof. Dr. Andreas Hein, *University of Oldenburg, Germany*
+- Prof. Dr. Mark Schweda, *University of Oldenburg, Germany*
+- Prof. Dr. Silke Schicktanz, *University of Goettingen, Germany*
+- Prof. Dr. Stefan Teipel, *University of Rostock, Germany*
+- Prof. Dr. Thomas Kirste, *University of Rostock, Germany*
 
-Additionally, you may choose to set the following optional variables:
 
-```yml
-show_downloads: ["true" or "false" to indicate whether to provide a download URL]
-google_analytics: [Your Google Analytics tracking ID]
-```
+# Program Committee
 
-### Stylesheet
+- Prof. Dr. Christoph Benzmüller, *Freie Universität Berlin, Germany*
+- Prof. Dr. Kristof Van Laerhoven, *Universty of Siegen, Germany*
+- Prof. Dr. Jesse Hoey, *University of Waterloo, Canada*
+- Prof. Dr. Britta Böckmann, *Fachhochschule Dortmund, Germany*
+- JProf. Dr. Johann-Christian Põder, *University of Rostock, Germany*
+- Dr. Sebastian Bader, *University of Rostock, Germany*
+- Dr. Kristina Yordanova, *University of Rostock, Germany*
+- Dr. Nils Strodthoff, *Fraunhofer Heinrich Hertz Institute, Germany*
+- Dr. Matthias Braun, *University of Erlangen, Germany*
+- Eike Buhr, *University of Oldenburg, Germany*
+- Johannes J. Welsch, *University of Göttingen, Germany*
+- Carolin Lübbe, *University of Oldenburg, Germany*
+- M. Salman Shaukat *University of Rostock, Germany*
 
-If you'd like to add your own custom styles:
+<h1>Important Dates</h1>
 
-1. Create a file called `/assets/css/style.scss` in your site
-2. Add the following content to the top of the file, exactly as shown:
-    ```scss
-    ---
-    ---
+<table style="width:100%">
 
-    @import "{{ site.theme }}";
-    ```
-3. Add any custom CSS (or Sass, including imports) you'd like immediately after the `@import` line
 
-*Note: If you'd like to change the theme's Sass variables, you must set new values before the `@import` line in your stylesheet.*
-
-### Layouts
-
-If you'd like to change the theme's HTML layout:
-
-1. [Copy the original template](https://github.com/pages-themes/cayman/blob/master/_layouts/default.html) from the theme's repository<br />(*Pro-tip: click "raw" to make copying easier*)
-2. Create a file called `/_layouts/default.html` in your site
-3. Paste the default layout content copied in the first step
-4. Customize the layout as you'd like
-
-### Overriding GitHub-generated URLs
-
-Templates often rely on URLs supplied by GitHub such as links to your repository or links to download your project. If you'd like to override one or more default URLs:
-
-1. Look at [the template source](https://github.com/pages-themes/cayman/blob/master/_layouts/default.html) to determine the name of the variable. It will be in the form of `{{ site.github.zip_url }}`.
-2. Specify the URL that you'd like the template to use in your site's `_config.yml`. For example, if the variable was `site.github.url`, you'd add the following:
-    ```yml
-    github:
-      zip_url: http://example.com/download.zip
-      another_url: another value
-    ```
-3. When your site is built, Jekyll will use the URL you specified, rather than the default one provided by GitHub.
-
-*Note: You must remove the `site.` prefix, and each variable name (after the `github.`) should be indent with two space below `github:`.*
-
-For more information, see [the Jekyll variables documentation](https://jekyllrb.com/docs/variables/).
-
-## Roadmap
-
-See the [open issues](https://github.com/pages-themes/cayman/issues) for a list of proposed features (and known issues).
-
-## Project philosophy
-
-The Cayman theme is intended to make it quick and easy for GitHub Pages users to create their first (or 100th) website. The theme should meet the vast majority of users' needs out of the box, erring on the side of simplicity rather than flexibility, and provide users the opportunity to opt-in to additional complexity if they have specific needs or wish to further customize their experience (such as adding custom CSS or modifying the default layout). It should also look great, but that goes without saying.
-
-## Contributing
-
-Interested in contributing to Cayman? We'd love your help. Cayman is an open source project, built one contribution at a time by users like you. See [the CONTRIBUTING file](docs/CONTRIBUTING.md) for instructions on how to contribute.
-
-### Previewing the theme locally
-
-If you'd like to preview the theme locally (for example, in the process of proposing a change):
-
-1. Clone down the theme's repository (`git clone https://github.com/pages-themes/cayman`)
-2. `cd` into the theme's directory
-3. Run `script/bootstrap` to install the necessary dependencies
-4. Run `bundle exec jekyll serve` to start the preview server
-5. Visit [`localhost:4000`](http://localhost:4000) in your browser to preview the theme
-
-### Running tests
-
-The theme contains a minimal test suite, to ensure a site with the theme would build successfully. To run the tests, simply run `script/cibuild`. You'll need to run `script/bootstrap` once before the test script will work.
+  <tr>
+    <td>Deadline for Submission</td>
+    <td>July 25, 2021</td>
+  </tr>
+  <tr>
+    <td>Notification of Authors</td>
+    <td>August 20, 2021</td>
+  </tr>
+  <tr>
+    <td>Camera-ready Paper</td>
+    <td>September 02, 2021</td>
+  </tr>
+  <tr>
+    <td>Workshop</td>
+    <td>September 27 - October 01, 2021</td>
+  </tr>
+</table>
