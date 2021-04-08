@@ -3,6 +3,7 @@ layout: default
 title:  "Artificial Intelligence and Ethics"
 
 ---
+# Artificial Intelligence and Ethics Workshop @ KI2021
 
 # Aim and Scope
 
