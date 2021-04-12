@@ -1,42 +1,4 @@
-<!DOCTYPE html>
-<html lang="en-US">
-  <head>
-
-    
-    <meta charset="UTF-8">
-
-<!-- Begin Jekyll SEO tag v2.7.1 -->
-<title>Artificial Intelligence and Ethics</title>
-<meta name="generator" content="Jekyll v4.2.0" />
-<meta property="og:title" content="Artificial Intelligence and Ethics" />
-<meta property="og:locale" content="en_US" />
-<meta name="description" content="Workshop at KI2021: 44th German Conference on Artificial Intelligence" />
-<meta property="og:description" content="Workshop at KI2021: 44th German Conference on Artificial Intelligence" />
-<meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="Artificial Intelligence and Ethics" />
-<script type="application/ld+json">
-{"description":"Workshop at KI2021: 44th German Conference on Artificial Intelligence","headline":"Artificial Intelligence and Ethics","url":"/","@type":"WebSite","@context":"https://schema.org"}</script>
-<!-- End Jekyll SEO tag -->
-
-    <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" as="style" type="text/css" crossorigin>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#157878">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <link rel="stylesheet" href="/assets/css/style.css?v=">
-  </head>
-  <body>
-    <a id="skip-to-content" href="#content">Skip to the content.</a>
-
-    <header class="page-header" role="banner">
-      <h1 class="project-name">Artificial Intelligence and Ethics</h1>
-      <h2 class="project-tagline">Workshop at KI2021: 44th German Conference on Artificial Intelligence</h2>
-      
-      
-    </header>
-
-    <main id="content" class="main-content" role="main">
-      <h1 id="aim-and-scope">Aim and Scope</h1>
+I"*<h1 id="aim-and-scope">Aim and Scope</h1>
 
 <p>With each passing day, we are witnessing an increased integration of intelligent machines in our daily lives such as self-driving cars, Intelligent Assistive Systems (IAS), and companion robots. The omnipresence of such intelligent machines poses certain ethical and legal challenges. To ensure the beneficence of autonomous agents towards humans (and other machines), we need to introduce ethical and legal mechanism(s) to govern and align action executed by AI-based algorithms according to our societal ethical and moral norms. The challenge of encoding our ethical preferences into machines is two-fold: Technical and Philosophical. Regarding the former, various frameworks have been already proposed to realise operationalisable ethics. These frameworks can be roughly divided into three categories: 1) Probabilistic approaches 2) Learning-Based approaches 3) Logic-Based approaches. Regarding the latter, there are also ethical challenges to consider. Some dispute that machines cannot act ethically at all, since this presupposes the possibility of reflection and justification. Regardless of this objection, there is by no means agreement among ethicists about which ethical principles should be implemented and in which hierarchical relationship they should stand to each other. In light of the fact that the systems that might even get into the situation of having to make an ethically relevant decision on their own have yet to be developed, the debate on implementing ethical principles in AI systems is still in its infancy. A first step towards solving the problems mentioned is therefore to bring the relevant experts into discussion with each other.</p>
 
@@ -141,14 +103,4 @@ The workshop is planned as a half-day event, a detailed schedule will be provide
 
 <p><a href="readme.md">More Info</a></p>
 
-
-	  
-	  <footer class="site-footer">
-	          
-	          <span class="site-footer-credits">Impressum <a href="./Imp.html">Impressum</a>.</span>
-	        </footer>
-
-
-    </main>
-  </body>
-</html>
+:ET
