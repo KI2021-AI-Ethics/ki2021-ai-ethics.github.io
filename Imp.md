@@ -1,7 +1,9 @@
----
+```shell
 layout: default
-title:  "Artificial Intelligence and Ethics"
----
+title: "Impressum"
+```
+
+# Artificial Intelligence and Ethics Workshop @ KI2021
 
 # Aim and Scope
 
@@ -11,7 +13,7 @@ The aim of the workshop is therefore primarily to initiate an interdisciplinary 
 
 
 # Program
-<a name="Program"></a>
+
 The workshop is planned as a half-day event, a detailed schedule will be provided soon.
 
 # Call for papers
@@ -20,24 +22,23 @@ With the emergence and proliferation of smart machines in professional and every
 
 - Ethics-aware and responsible AI development
 - Ethical Decision Framework(s) in different application domains
-	- Intelligent Assistive Systems
-	- Self-Driving Cars
-	- Healthcare
-	- Robotics
-	- Other decision-making frameworks
+  - Intelligent Assistive Systems
+  - Self-Driving Cars
+  - Healthcare
+  - Robotics
+  - Other decision-making frameworks
 - Technical Approaches towards operationalising ethics in AI
-	- Probablisitc Approaches
-	- Logic Based Approaches
-	- Learning Based Approaches
-	- Other approaches
+  - Probablisitc Approaches
+  - Logic Based Approaches
+  - Learning Based Approaches
+  - Other approaches
 - Validation approaches for an ethical decision framework
 
 The above list is not an exhaustive list but only an indicative one. We solicit an extended abstract of 700-1000 words in which you present your project, your research question, your methods and, if applicable, your initial results. All abstracts must be written in English and be submitted via the [Easychair submission website](https://easychair.org/conferences/?conf=ki2021wt) until 25th July 2021. Since the goal of the workshop is specially to guide an exchange between disciplines, we highly encourage interdisciplinary teams to submit.
 
  
 
-# Workshop chairs and organisers
-## Chairs
+# Organizers
 
 - Prof. Dr. Andreas Hein, *University of Oldenburg, Germany*
 - Prof. Dr. Mark Schweda, *University of Oldenburg, Germany*
@@ -45,13 +46,9 @@ The above list is not an exhaustive list but only an indicative one. We solicit 
 - Prof. Dr. Stefan Teipel, *University of Rostock, Germany*
 - Prof. Dr. Thomas Kirste, *University of Rostock, Germany*
 
-## Organisers
-- Eike Buhr, *University of Oldenburg, Germany*  ; [eike.buhr@uni-oldenburg.de](mailto:eike.buhr@uni-oldenburg.de)
-- Johannes J. Welsch, *University of Göttingen, Germany*  ; [johannes.welsch@med.uni-goettingen.de](mailto:johannes.welsch@med.uni-goettingen.de)
-- Carolin Lübbe, *University of Oldenburg, Germany* ; [carolin.luebbe@uni-oldenburg.de](mailto:carolin.luebbe@uni-oldenburg.de)
-- M. Salman Shaukat *University of Rostock, Germany* ; [muhammad.shaukat@uni-rostock.de](mailto:muhammad.shaukat@uni-rostock.de)
 
 # Program Committee
+
 - Prof. Dr. Christoph Benzmüller, *Freie Universität Berlin, Germany*
 - Prof. Dr. Kristof Van Laerhoven, *Universty of Siegen, Germany*
 - Prof. Dr. Jesse Hoey, *University of Waterloo, Canada*
@@ -61,12 +58,16 @@ The above list is not an exhaustive list but only an indicative one. We solicit 
 - Dr. Kristina Yordanova, *University of Rostock, Germany*
 - Dr. Nils Strodthoff, *Fraunhofer Heinrich Hertz Institute, Germany*
 - Dr. Matthias Braun, *University of Erlangen, Germany*
-- Dr. Larbi Abdenebaoui,*University of Oldenburg, Germany*
+- Eike Buhr, *University of Oldenburg, Germany*
+- Johannes J. Welsch, *University of Göttingen, Germany*
+- Carolin Lübbe, *University of Oldenburg, Germany*
+- M. Salman Shaukat *University of Rostock, Germany*
 
 <h1>Important Dates</h1>
 
 <table style="width:100%">
-  
+
+
   <tr>
     <td>Deadline for Submission</td>
     <td>July 25, 2021</td>
@@ -84,17 +85,3 @@ The above list is not an exhaustive list but only an indicative one. We solicit 
     <td>September 27 - October 01, 2021</td>
   </tr>
 </table>
-
-# Acknowledgement
-This workshop is organised under the project *EIDEC* (Ethical and Social Aspects of Co-Intelligent Monitoring and Assistance Systems in Dementia Care) , funded by the German Federal Ministry of Education and Research (*BMBF*) with funding number 01GP1901A. For Further information on the project please visit [here](http://demenz-assistenz.de/HOME/).
-
-[More Info](Imp.md)
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-<img style= "float: right" src="bmbf_logo.jpeg" alt="BMBF" width="300"/>
-
-
