@@ -1,7 +1,7 @@
-```shell
+---
 layout: default
 title: "Impressum"
-```
+---
 
 # Artificial Intelligence and Ethics Workshop @ KI2021
 
