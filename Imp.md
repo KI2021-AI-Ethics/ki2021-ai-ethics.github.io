@@ -4,12 +4,12 @@ title:  "Artificial Intelligence and Ethics"
 ---
 
 # Impressum
-**Verantwortlich für den Inhalt dieser Internetseiten**
-Department of Computer Science
-University of Rostock
-Albert-Einstein-Straße 22 
-18059 Rostock
-Muhammad Salman Shaukat
+**Verantwortlich für den Inhalt dieser Internetseiten** 
+Department of Computer Science 
+University of Rostock 
+Albert-Einstein-Straße 22  
+18059 Rostock 
+Muhammad Salman Shaukat 
 
 ## 1. Haftungsbeschränkung
 Die Inhalte dieser Website werden mit größtmöglicher Sorgfalt erstellt. Der Anbieter übernimmt jedoch keine Gewähr für die Richtigkeit, Vollständigkeit und Aktualität der bereitgestellten Inhalte. Die Nutzung der Inhalte der Website erfolgt auf eigene Gefahr des Nutzers. Namentlich gekennzeichnete Beiträge geben die Meinung des jeweiligen Autors und nicht immer die Meinung des Anbieters wieder. Mit der reinen Nutzung der Website des Anbieters kommt keinerlei Vertragsverhältnis zwischen dem Nutzer und dem Anbieter zustande.
