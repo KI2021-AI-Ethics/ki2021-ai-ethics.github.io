@@ -87,6 +87,8 @@ The above list is not an exhaustive list but only an indicative one. We solicit 
 
 # Acknowledgement
 This workshop is organised under the project *EIDEC* (Ethical and Social Aspects of Co-Intelligent Monitoring and Assistance Systems in Dementia Care) , funded by the German Federal Ministry of Education and Research (*BMBF*) with funding number 01GP1901A. For Further information on the project please visit [here](http://demenz-assistenz.de/HOME/).
+
+[More Info](readme.md)
 <br/>
 <br/>
 <br/>
@@ -94,7 +96,5 @@ This workshop is organised under the project *EIDEC* (Ethical and Social Aspects
 <br/>
 
 <img style= "float: right" src="bmbf_logo.jpeg" alt="BMBF" width="300"/>
-
-[More Info](readme.md)
 
 
