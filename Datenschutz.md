@@ -7,11 +7,13 @@ title:  "Artificial Intelligence and Ethics"
 **Allgemeiner Hinweis und Pflichtinformationen** <br/>
 Benennung der verantwortlichen Stelle <br/>
 Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist: <br/>
+<br/>
 Department of Computer Science<br/>
 University of Rostock<br/>
 Albert-Einstein-Straße 22 <br/>
 18059 Rostock<br/>
 Muhammad Salman Shaukat<br/>
+<br/>
 Die verantwortliche Stelle entscheidet allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z.B. Namen, Kontaktdaten o. Ä.).
 
 ## Widerruf Ihrer Einwilligung zur Datenverarbeitung
