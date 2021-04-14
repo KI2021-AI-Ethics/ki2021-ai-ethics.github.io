@@ -92,6 +92,6 @@ This workshop is organised under the project *EIDEC* (Ethical and Social Aspects
 <br/>
 <br/>
 
-<img style= "float: right" src="bmbf_logo.jpeg" alt="BMBF" width="300"/>
+<img style= "float: right" src="BMBF_gef”rdert vom_deutsch.jpg" alt="BMBF" width="300"/>
 
 
