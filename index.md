@@ -32,7 +32,7 @@ With the emergence and proliferation of smart machines in professional and every
 	- Other approaches
 - Validation approaches for an ethical decision framework
 
-The above list is not an exhaustive list but only an indicative one. We solicit an extended abstract of 700-1000 words in which you present your project, your research question, your methods and, if applicable, your initial results. All abstracts must be written in English and be submitted via the [Easychair submission website](https://easychair.org/conferences/?conf=ki2021wt) until 25th July 2021. Since the goal of the workshop is specially to guide an exchange between disciplines, we highly encourage interdisciplinary teams to submit.
+The above list is not an exhaustive list but only an indicative one. We solicit an extended abstract of 700-1000 words in which you present your project, your research question, your methods and, if applicable, your initial results. All papers must be written in English in LNCS format (maximum 8-12 pages) and be submitted via the [Easychair submission website](https://easychair.org/conferences/?conf=ki2021wt) until 25th July 2021. Since the goal of the workshop is specially to guide an exchange between disciplines, we highly encourage interdisciplinary teams to submit. Accepted papers will be published in CEUR Workshop Proceedings.
 
  
 
