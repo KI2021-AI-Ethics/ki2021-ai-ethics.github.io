@@ -62,6 +62,7 @@ The above list is not an exhaustive list but only an indicative one. We solicit 
 - Dr. Nils Strodthoff, *Fraunhofer Heinrich Hertz Institute, Germany*
 - Dr. Matthias Braun, *University of Erlangen, Germany*
 - Dr. Larbi Abdenebaoui,*University of Oldenburg, Germany*
+- Dr. Martin Aleksandrov, *Technische Universität Berlin, Germany*
 
 <h1>Important Dates</h1>
 
