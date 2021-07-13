@@ -32,7 +32,7 @@ With the emergence and proliferation of smart machines in professional and every
 	- Other approaches
 - Validation approaches for an ethical decision framework
 
-The above list is not an exhaustive list but only an indicative one. We solicit either full papers (LNCS format, maximum12 pages) or extended abstract (of 700-1000 words) in which you present your project, your research question, your methods and, if applicable, your initial results. All papers and abstracts must be written in English and are to be submitted via the [Easychair submission website](https://easychair.org/conferences/?conf=ki2021wt) until 25th July 2021. Accepted papers and extended abstracts will be published in CEUR Workshop Proceedings. Authors of accepted contributions will be invited to present their work during the workshop. Since the goal of the workshop is especially to guide an exchange between disciplines, we highly encourage interdisciplinary teams to submit.
+The above list is not an exhaustive list but only an indicative one. We solicit either full papers (LNCS format, maximum12 pages) or extended abstract (of 700-1000 words) in which you present your project, your research question, your methods and, if applicable, your initial results. All papers and abstracts must be written in English and are to be submitted via the [Easychair submission website](https://www.easychair.org/my/conference?conf=aithics2021) until 25th July 2021. Accepted papers and extended abstracts will be published in CEUR Workshop Proceedings. Authors of accepted contributions will be invited to present their work during the workshop. Since the goal of the workshop is especially to guide an exchange between disciplines, we highly encourage interdisciplinary teams to submit.
 
  
 
@@ -70,7 +70,7 @@ The above list is not an exhaustive list but only an indicative one. We solicit 
   
   <tr>
     <td>Deadline for Submission</td>
-    <td>July 25, 2021</td>
+    <td>August 08, 2021 (extended)</td>
   </tr>
   <tr>
     <td>Notification of Authors</td>
