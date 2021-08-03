@@ -82,7 +82,7 @@ The above list is not an exhaustive list but only an indicative one. We solicit 
   </tr>
   <tr>
     <td>Workshop</td>
-    <td>September 27 - October 01, 2021</td>
+    <td>10:00 AM, September 27, 2021</td>
   </tr>
 </table>
 
