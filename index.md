@@ -12,7 +12,7 @@ The aim of the workshop is therefore primarily to initiate an interdisciplinary 
 
 # Program
 <a name="Program"></a>
-The workshop is planned as a half-day event, a detailed schedule will be provided soon.
+The workshop is planned as a half-day event (10:00 AM to 01:30 PM), a detailed schedule will be provided soon.
 
 # Call for papers and abstracts
 
