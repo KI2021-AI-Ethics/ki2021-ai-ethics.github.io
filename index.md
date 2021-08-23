@@ -3,6 +3,9 @@ layout: default
 title:  "Artificial Intelligence and Ethics"
 ---
 
+# News
+- Authors' notification deadline extended to 27.08.2021
+
 # Aim and Scope
 
 With each passing day, we are witnessing an increased integration of intelligent machines in our daily lives such as self-driving cars, Intelligent Assistive Systems (IAS), and companion robots. The omnipresence of such intelligent machines poses certain ethical and legal challenges. To ensure the beneficence of autonomous agents towards humans (and other machines), we need to introduce ethical and legal mechanism(s) to govern and align actions executed by AI-based algorithms according to our societal ethical and moral norms. The challenge of encoding our ethical preferences into machines is two-fold: Technical and Philosophical. Regarding the former, various frameworks have been already proposed to realise operationalisable ethics. These frameworks can be roughly divided into three categories: 1) Probabilistic approaches 2) Learning-Based approaches 3) Logic-Based approaches. Regarding the latter, there are also ethical challenges to consider. Some dispute that machines cannot act ethically at all, since this presupposes the possibility of reflection and justification. Regardless of this objection, there is by no means agreement among ethicists about which ethical principles should be implemented and in which hierarchical relationship they should stand to each other. In light of the fact that the systems that might even get into the situation of having to make an ethically relevant decision on their own have yet to be developed, the debate on implementing ethical principles in AI systems is still in its infancy. A first step towards solving the problems mentioned is therefore to bring the relevant experts into discussion with each other.
@@ -74,7 +77,7 @@ The above list is not an exhaustive list but only an indicative one. We solicit 
   </tr>
   <tr>
     <td>Notification of Authors</td>
-    <td>August 20, 2021</td>
+    <td>August 27, 2021 (extended)</td>
   </tr>
   <tr>
     <td>Camera-ready Paper</td>
