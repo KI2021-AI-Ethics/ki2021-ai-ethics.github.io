@@ -18,13 +18,6 @@ The aim of the workshop is therefore primarily to initiate an interdisciplinary 
 | Time          | Event           |
 |---------------|-----------------|
 | 10:00 - 10:05 | Welcome session |
-|               |                 |
-|               |                 |
-|               |                 |
-|               |                 |
-|               |                 |
-|               |                 |
-|               |                 |
 | 13:30         | Farewell        |
 
 # Call for papers and abstracts
