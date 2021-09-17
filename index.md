@@ -18,11 +18,37 @@ The aim of the workshop is therefore primarily to initiate an interdisciplinary 
 
 
 
-|   |   |
-|:---|:---|
-|10:00 - 10:05 &nbsp;&nbsp;&nbsp;&nbsp;| Welcome session <br /> |
-|10:05 - 10:20|Invited talk by Prof. Robert Sparrow, Bioethics  Centre, Monash University, "Machines and Moral Reasons"|
-|10:00 - 10:05| Welcome session |
+<table style="width:100%">
+  
+  <tr>
+    <td>10:00 - 10:05 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td>Opening + Welcome Session</td>
+  </tr>
+  <tr>
+    <td>10:05 - 10:45</td>
+    <td>Invited talk by Prof. Robert Sparrow, Bioethics  Centre, Monash University, "Machines and Moral Reasons"</td>
+  </tr>
+  <tr>
+    <td>10:45 - 11:00</td>
+    <td>Kris Vera Hartmann et al. </td>
+  </tr>
+  <tr>
+    <td>11:00 - 11:15</td>
+    <td>Beate Sohrmann</td>
+  </tr>
+  <tr>
+    <td>11:15 - 11:30</td>
+    <td>M. Salman Shaukat et al.</td>
+  </tr>
+<tr>
+    <td>11:30 - 11:40</td>
+    <td>Coffee Break</td>
+  </tr>
+<tr>
+    <td>11:40 - 12:20</td>
+    <td>Invited talk by David Fuenmayor, Department of Mathematics and Computer Science, Freie Universität Berlin, "Developing moral machines: Concept for a hybrid implementation of ethical theories"</td>
+  </tr>
+</table>
 
 # Call for papers and abstracts
 
