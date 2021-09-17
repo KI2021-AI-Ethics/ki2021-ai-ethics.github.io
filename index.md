@@ -18,7 +18,7 @@ The aim of the workshop is therefore primarily to initiate an interdisciplinary 
 
 <table>
   <tr>
-    <th>10:00-10:05</th>
+    <th>Time Start Time End</th>
     <th>Opening + Welcome Session</th>
   </tr>
   <tr>
