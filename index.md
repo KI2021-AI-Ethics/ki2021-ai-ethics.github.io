@@ -18,8 +18,10 @@ The aim of the workshop is therefore primarily to initiate an interdisciplinary 
 
 
 
-| *address* | _user | address of certificate owner |
-| *bytes32* | _hash | sha256 hash of the certificate text |
+|   |   |
+|---|---|
+|__Bold Key__| Value1 |
+| Normal Key | Value2 |
 
 # Call for papers and abstracts
 
