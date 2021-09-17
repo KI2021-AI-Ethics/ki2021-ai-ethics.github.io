@@ -15,10 +15,12 @@ The aim of the workshop is therefore primarily to initiate an interdisciplinary 
 
 # Program
 <a name="Program"></a>
+
 | type|name |description |
 |----|---|---|
 | *address* | _user | address of certificate owner |
 | *bytes32* | _hash | sha256 hash of the certificate text |
+
 # Call for papers and abstracts
 
 With the emergence and proliferation of smart machines in professional and everyday contexts, ethical and legal issues are particularly salient. Integrating ethical principles is challenging from both a technical and philosophical perspective. The goal of the workshop is therefore to bring together contributions from computer science, engineering, philosophy, and other relevant fields that tackle these challenges and address the following topics (not limmited to):
