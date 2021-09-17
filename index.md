@@ -48,6 +48,10 @@ The aim of the workshop is therefore primarily to initiate an interdisciplinary 
     <td>11:40 - 12:20</td>
     <td>Invited talk by David Fuenmayor, Department of Mathematics and Computer Science, Freie Universität Berlin, "Developing moral machines: Concept for a hybrid implementation of ethical theories"</td>
   </tr>
+<tr>
+    <td>12:20 - 12:35</td>
+    <td>Paula Helm et al.</td>
+  </tr>
 </table>
 
 # Call for papers and abstracts
