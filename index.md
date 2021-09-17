@@ -52,6 +52,22 @@ The aim of the workshop is therefore primarily to initiate an interdisciplinary 
     <td>12:20 - 12:35</td>
     <td>Paula Helm et al.</td>
   </tr>
+<tr>
+    <td>12:35 - 12:50</td>
+    <td>Lukas J. Meier et al.</td>
+  </tr>
+<tr>
+    <td>12:50 - 13:05</td>
+    <td>Hannah Bleher et al.</td>
+  </tr>
+<tr>
+    <td>13:05 - 13:20</td>
+    <td>Eike Buhr et al.</td>
+  </tr>
+<tr>
+    <td>13:20 - 13:30 Concluding Remarks + Farewell</td>
+    <td>Coffee Break</td>
+  </tr>
 </table>
 
 # Call for papers and abstracts
