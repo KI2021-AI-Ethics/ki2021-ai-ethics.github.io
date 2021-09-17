@@ -18,19 +18,19 @@ The aim of the workshop is therefore primarily to initiate an interdisciplinary 
 
 <table style="width:100%">
   <tr>
-    <td>10:00</td>
+    <td>10:00-10:05</td>
     <td>Opening + Welcome Session</td>
   </tr>
   <tr>
-    <td>10:05 - 10:45</td>
+    <td>10:05-10:45</td>
     <td>Invited talk by Prof. Robert Sparrow, Bioethics  Centre, Monash University, "Machines and Moral Reasons"</td>
   </tr>
   <tr>
-    <td>10:45 - 11:00</td>
+    <td>10:45-11:00</td>
     <td>Kris Vera Hartmann et al. </td>
   </tr>
   <tr>
-    <td>11:00 - 11:15</td>
+    <td>11:00-11:15</td>
     <td>Beate Sohrmann</td>
   </tr>
 </table>
