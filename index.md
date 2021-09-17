@@ -15,7 +15,6 @@ The aim of the workshop is therefore primarily to initiate an interdisciplinary 
 
 # Program
 <a name="Program"></a>
-
 | type|name |description |
 |----|---|---|
 | *address* | _user | address of certificate owner |
