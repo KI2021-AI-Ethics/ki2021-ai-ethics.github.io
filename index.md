@@ -13,9 +13,39 @@ With each passing day, we are witnessing an increased integration of intelligent
 The aim of the workshop is therefore primarily to initiate an interdisciplinary dialogue between the individual disciplines, such that the state of research of the respective discipline can be understood by the participants and conceptual ambiguities, which exist especially in interdisciplinary projects, can be cleared up. As organizers, we hope that our workshop will help to establish a platform for interdisciplinary collaboration and will pave the way to find a common ground among these disciplines such that a roadmap towards ethics aware Artificial Intelligence can be proposed.
 
 
-# Program
+# Program and accepted contributions
 <a name="Program"></a>
-The workshop is planned as a half-day event (10:00 AM to 01:30 PM), a detailed schedule will be provided soon.
+<table style="width:100%">
+  
+  <tr>
+    <td>10:00 - 10:05</td>
+    <td>Opening + Welcome Session</td>
+  </tr>
+  <tr>
+    <td>10:05 - 10:45</td>
+    <td>Invited talk by Prof. Robert Sparrow, Bioethics  Centre, Monash University, "Machines and Moral Reasons"</td>
+  </tr>
+  <tr>
+    <td>10:45 - 11:00</td>
+    <td>Kris Vera Hartmann et al. </td>
+  </tr>
+  <tr>
+    <td>11:00 - 11:15</td>
+    <td>Beate Sohrmann</td>
+  </tr>
+  <tr>
+    <td>11:15 - 11:30</td>
+    <td>M. Salman Shaukat et al.</td>
+  </tr>
+<tr>
+    <td>11:30 - 11:40</td>
+    <td>Coffee Break</td>
+  </tr>
+<tr>
+    <td>11:40 - 12:20</td>
+    <td>Invited talk by David Fuenmayor, Department of Mathematics and Computer Science, Freie Universität Berlin, "Developing moral machines: Concept for a hybrid implementation of ethical theories"</td>
+  </tr>
+</table>
 
 # Call for papers and abstracts
 
