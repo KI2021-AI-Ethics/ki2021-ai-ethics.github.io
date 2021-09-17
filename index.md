@@ -26,7 +26,7 @@ The aim of the workshop is therefore primarily to initiate an interdisciplinary 
   </tr>
   <tr>
     <td>10:05 - 10:45</td>
-    <td>Invited talk by Prof. Robert Sparrow, Bioethics  Centre, Monash University, "Machines and Moral Reasons"</td>
+    <td>Invited talk by Prof. Robert Sparrow, Bioethics  Centre, Monash University, <i>"Machines and Moral Reasons"</i></td>
   </tr>
   <tr>
     <td>10:45 - 11:00</td>
