@@ -15,60 +15,10 @@ The aim of the workshop is therefore primarily to initiate an interdisciplinary 
 
 # Program
 <a name="Program"></a>
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-zv4m{border-color:#ffffff;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-zv4m">Time</th>
-    <th class="tg-zv4m">Event</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-zv4m">10:00 - 10:05</td>
-    <td class="tg-zv4m">Welcome session</td>
-  </tr>
-  <tr>
-    <td class="tg-zv4m"></td>
-    <td class="tg-zv4m"></td>
-  </tr>
-  <tr>
-    <td class="tg-zv4m"></td>
-    <td class="tg-zv4m"></td>
-  </tr>
-  <tr>
-    <td class="tg-zv4m"></td>
-    <td class="tg-zv4m"></td>
-  </tr>
-  <tr>
-    <td class="tg-zv4m"></td>
-    <td class="tg-zv4m"></td>
-  </tr>
-  <tr>
-    <td class="tg-zv4m"></td>
-    <td class="tg-zv4m"></td>
-  </tr>
-  <tr>
-    <td class="tg-zv4m"></td>
-    <td class="tg-zv4m"></td>
-  </tr>
-  <tr>
-    <td class="tg-zv4m"></td>
-    <td class="tg-zv4m"></td>
-  </tr>
-  <tr>
-    <td class="tg-zv4m">13:30</td>
-    <td class="tg-zv4m">Farewell</td>
-  </tr>
-</tbody>
-</table>
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 # Call for papers and abstracts
 
