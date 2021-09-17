@@ -65,8 +65,8 @@ The aim of the workshop is therefore primarily to initiate an interdisciplinary 
     <td>Eike Buhr et al.</td>
   </tr>
 <tr>
-    <td>13:20 - 13:30 Concluding Remarks + Farewell</td>
-    <td>Coffee Break</td>
+    <td>13:20 - 13:30</td>
+    <td> Concluding Remarks + Farewell</td>
   </tr>
 </table>
 
