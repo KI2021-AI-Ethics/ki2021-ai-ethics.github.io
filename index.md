@@ -16,25 +16,16 @@ The aim of the workshop is therefore primarily to initiate an interdisciplinary 
 # Program
 <a name="Program"></a>
 
-<table style="width:100%">
+<table>
+  <tr>
+    <th>10:00-10:05</th>
+    <th>Opening + Welcome Session</th>
+  </tr>
   <tr>
     <td>10:00-10:05</td>
-    <td>Opening + Welcome Session</td>
-  </tr>
-  <tr>
-    <td>10:05-10:45</td>
     <td>Invited talk by Prof. Robert Sparrow, Bioethics  Centre, Monash University, "Machines and Moral Reasons"</td>
   </tr>
-  <tr>
-    <td>10:45-11:00</td>
-    <td>Kris Vera Hartmann et al. </td>
-  </tr>
-  <tr>
-    <td>11:00-11:15</td>
-    <td>Beate Sohrmann</td>
-  </tr>
 </table>
-
 # Call for papers and abstracts
 
 With the emergence and proliferation of smart machines in professional and everyday contexts, ethical and legal issues are particularly salient. Integrating ethical principles is challenging from both a technical and philosophical perspective. The goal of the workshop is therefore to bring together contributions from computer science, engineering, philosophy, and other relevant fields that tackle these challenges and address the following topics (not limmited to):
