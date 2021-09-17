@@ -20,8 +20,8 @@ The aim of the workshop is therefore primarily to initiate an interdisciplinary 
 
 |   |   |
 |---|---|
-|__Bold Key__| Value1 |
-| Normal Key | Value2 |
+|10:00 - 10:05| Welcome session |
+|10:05 - 10:20|Keynote|
 
 # Call for papers and abstracts
 
