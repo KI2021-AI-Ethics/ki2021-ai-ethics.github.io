@@ -3,8 +3,14 @@ layout: default
 title:  "Artificial Intelligence and Ethics"
 ---
 
-# News
-- Authors' notification deadline extended to 27.08.2021
+# Accepted Papers
+- <i>"Machine Intelligence in Medical Ethics"</i>, Lukas J. Meier and Alice Hein
+- <i>"Private and independent: Ethical implications in AAL research" </i>, Kris Vera Hartmann, Giovanni Rubeis and Nadia Primc
+- <i>"Developing moral machines: Concept for a hybrid implementation of ethical theories" </i>, Beate Sohrmann
+- <i>"Transparency and Pregnancy – Not a Perfect Match? Ethical Design Aspects of Transparency and Data Obfuscation for AI-Driven Medical Pregnancy Care" </i>, Hannah Bleher, Michael Nissen, Katharina Jäger and Björn M. Eskofier
+- <i>"Diversity by Design: Balancing Protection and Inclusion in Social Networks" </i>, Paula Helm, Loizos Michael and Laura Schelenz
+- <i>"Taking people with dementia seriously: Value preference profiles as a source for ethics by design in technology-assisted dementia care" </i>, Eike Buhr, Johannes Welsch and Muhammad Salman Shaukat
+- <i>"Towards Measuring “Ethicality” of an Intelligent Assistive System" </i>, Muhammad Salman Shaukat, Johann-Christian Põder, Sebastian Bader and Thomas Kirste
 
 # Aim and Scope
 
